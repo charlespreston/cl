@@ -1,5 +1,3 @@
-multiplot(p1, p2, p3, p2, cols=2)
-
 # Multiple plot function
 #
 # ggplot objects can be passed in ..., or to plotlist (as a list of ggplot objects)
